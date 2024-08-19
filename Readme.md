@@ -19,7 +19,7 @@ This project is an advanced EXIF metadata extractor tool built with Streamlit. I
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/advanced-exif-metadata-extractor.git
+    git clone https://github.com/abhijith107/advanced-exif-metadata-extractor.git
     ```
 
 2. Navigate to the project directory:
